@@ -5,6 +5,11 @@
 //  Created by Mike Derr on 10/2/16.
 //  Copyright © 2016 Mike Derr. All rights reserved.
 //
+// https://medium.com/lost-bananas/building-an-interactive-imessage-application-for-ios-10-in-swift-7da4a18bdeed#.egwa05wi2
+//
+//table example
+// https://www.captechconsulting.com/blogs/ios-10-imessages-sdk-creating-an-imessages-extension
+//
 
 import UIKit
 import Messages
